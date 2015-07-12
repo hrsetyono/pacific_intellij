@@ -1,0 +1,1 @@
+jar cf "Pacific Dark.jar" "colors" "options" "IntelliJ IDEA Global Settings"
