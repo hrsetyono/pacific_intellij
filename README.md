@@ -8,11 +8,11 @@ This is a nightly port from [Pacific - Sublime Theme](https://github.com/hrsetyo
 Installation
 ----------------
 
-File > Import Settings > Select the `.jar` file
+1. Download the JAR file [here](https://github.com/hrsetyono/pacific_intellij/releases)
 
-File > Settings > Editor > Color & Fonts > Select "Pacific Dark" from the dropdown.
+2. File > Import Settings > Select the `.jar` file
 
-If you can't find it in the dropdown, restart your IDE again.
+3. File > Settings > Editor > Color & Fonts > Select `Pacific Dark` from the dropdown. If you can't find it, restart your IDE again.
 
 Sample
 ----------------
